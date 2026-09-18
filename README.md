@@ -6,4 +6,5 @@ The website should have a homepage where it shows the vision and mission stateme
 I had to do some changes on the websites, where i changes the navigation of the systems, added footers, and added a picture.
 The images below show the different ways the websites appear on different size screens. 
 <img width="1920" height="1020" alt="screenshot-laptop" src="https://github.com/user-attachments/assets/1c52a7b8-c664-4810-aa9e-2aeeb272d0c2" />
-<img width="1920" height="1020" alt="screenshot-phone" src="https://github.com/user-attachments/assets/074a2408-82d8-43db-8234-4083690a2b88" />
+<img width="739" height="1600" alt="phone" src="https://github.com/user-attachments/assets/c97f5486-1fb4-4871-81b5-324073d57ed0" />
+
